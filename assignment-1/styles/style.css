@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+}
+.container{
+    height: 89px;
+}
+.top-left, .top-right{
+    position: absolute;
+    top: 24px;
+}
+.top-left{
+    left: 24px;
+    font-size: 32px;
+    font-weight: bold;
+    padding-bottom: 60px;
+    align-items: center;
+    margin-left: 40px;
+    font-family: Fira Sans;
+}
+.container>button:hover{
+    background-color: rgb(179, 44, 161);
+}
+.top-right{
+    right: 24px;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(21, 88, 21);
+    border-color: green;
+    background-color: rgb(241, 239, 239);
+    border-radius: 5px;
+    width: 100px;
+    margin-right: 40px;
+
+    height: 34px;
+}
+.bangladesh { display: flex; justify-content: space-between; align-items: center;background-color:#C6E4D6;
+height: 500px;border-radius: 24px;margin: 26px 40px;} 
+
+.outerbox>.innerbox{
+    font-family: Fira Sans;
+    padding-left: 55px;
+    flex-direction: column;
+    align-items: center;
+
+}
+.outerbox>.innerbox>#title1{
+    font-size:18px;
+    font-weight: 500;
+    color: #7a6969;
+}
+
+.outerbox>.innerbox>#heading1{
+    color: #0E0E0E;
+    font-weight: bold;
+    font-size: xx-large;
+    padding-top: 7px;margin-top: 10px;}
+    
+
+.outerbox>.innerbox> button{
+    font-size: medium;
+    font-weight: 400;
+    background-color:#006A50;
+    border-radius: 5px;
+    color: #0E0E0E;
+    margin-top: 10px;
+
+
+
+}
+.outerbox1>.innerbox{
+    padding-bottom: 10px;
+}
+.pillars{
+    margin: 38px;
+}
+.pillars>.fours{
+    display: inline-block;
+    justify-content:space-evenly;
+    margin-left: 9px;
+    width: 23%;
+    border-radius: 6px;
+    background-color: rgb(234, 243, 243);
+    padding:3px;
+    font-family: Fira Sans;
+}
+.pillars>.fours>.inovation{
+    font-weight: bold;
+    font-size: medium;
+}
+.pillars>#ptitle{
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-left: 20px;
+    margin: 20px 20px;
+}
