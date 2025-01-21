@@ -143,9 +143,90 @@ height: 500px;border-radius: 24px;margin: 26px 40px;}
     background-image: url("../assets/quote-bg.png");
     background-repeat: no-repeat;
     margin-top: 30px;
-    border: 1px solid rebeccapurple;
     width: 90%;
     margin-left: 44px;
     border-radius: 10px;
     padding: 10px;
+    font-family: Fira Sans ;
 }
+table{
+    border-collapse: collapse;
+    width: 90%;
+    margin-left: 44px;
+    border: 1px solid black;
+}
+th{
+    border: 1px solid rgb(34, 20, 48);
+    text-align: left;
+    width: 75%;
+    margin-top: 10px;
+}
+.table1> #caption{
+    font-size:35px;
+    font-weight: bold; 
+    text-align: left; 
+    margin-top: 29px;
+    margin-bottom: 10px;
+    font-family: Fira Sans;
+    
+}
+.tableBody>tr, td{
+    border: 1px solid #131111;
+    width: 40px;
+}
+td>button{
+    margin-left:35%;
+}
+.satellite-section>#recent{
+    font-family: Fira Sans;
+    font-size:35px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 44px;
+
+}
+.satellite-section>#recentp{
+    margin-left: 44px;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    width: 90%;
+    font: Fira Sans;
+}
+.satellite-section1>.child{
+    display: flex;
+    border-radius: 10px;
+    margin-top: 30px;
+
+}
+.satellite-section1{
+    width: 90%;
+    margin-left: 44px;
+    border: 1px solid rgb(180, 180, 161);
+    border-radius: 15px;
+    padding: 10px;
+    height: 90%;
+}
+.child>#satelite{
+    
+    margin: 15px 40px;
+    border-radius: 10px;
+    width: auto;
+
+}
+#bold-line1{
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 15px;}
+
+
+ #description1{
+    margin-top: 10px;
+
+ } 
+ #button1{
+    margin-top: 30px;
+    background-color: #0b3b2f;
+    border-radius: 5px;
+    text-align: end;
+ }
