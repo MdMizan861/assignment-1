@@ -324,3 +324,49 @@ td>button{
     border-radius: 5px;
     background-color: #006A50;
 }
+.subs{
+    text-align: center;
+    margin-top: 40px;
+    border: 1px solid rgb(253, 249, 249);
+    border-radius: 10px;
+    width: 90%;
+    margin-left: 44px;
+    padding: 20px;
+    height: 250px;
+    font-family:  Fira Sans;
+    background-color: #C6E4D6;
+}
+#subs1{
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#subs2{
+    border: 1px solid rgb(240, 228, 228);
+    height: 50px;
+    padding: 5px 20px;
+    text-align: center;
+    width: 67%;
+    margin-left: 20%;
+    margin-bottom: 30px;
+    color: #443636;
+}
+#subs3{
+    width: 60%;
+    height: 30px;
+    padding-left: 30px;
+}
+#subs4{
+    border: 1px solid black;
+    height: 30px;
+    padding: 8px;
+    font-weight: bold;
+    background-color: rgb(24, 83, 49) ;
+    border-radius: 5px;
+    margin-left: 0;}
+
+#subs5{
+    margin-top: 20px;
+    color: #2b2424;
+}
