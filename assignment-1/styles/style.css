@@ -202,7 +202,7 @@ td>button{
 .satellite-section1{
     width: 90%;
     margin-left: 44px;
-    border: 1px solid rgb(180, 180, 161);
+    border: 1px solid rgb(204, 204, 195);
     border-radius: 15px;
     padding: 10px;
     height: 90%;
@@ -246,7 +246,7 @@ td>button{
     width:90%;
     margin-left: 44px;
     margin-top: 20px;
-    border: 1px solid rgb(32, 32, 25);
+    border: 1px solid rgb(218, 218, 208);
     border-radius: 15px;
     padding: 10px;
  }
@@ -269,3 +269,58 @@ td>button{
     margin: 20px 30px;
     padding-top: 20px ;
  }
+ .donate{
+    margin-top: 30px;
+    margin-left: 44px;
+    padding: 20px;
+ }
+ .donate>#id1{
+    text-align: center;
+    font-size: 23px;
+    font-family: Fira Sans;
+    font-weight: bold;
+    margin-bottom: 20px;
+
+ }
+ .donate>#id2{
+    text-align: center;
+    font-size: 13px;
+    font-family: Fira Sans;
+    margin-bottom: 30px;
+    }
+ .amount>#table2 tr{
+    width: 90%;}
+ .amount>#table2 td{
+    border: 20px solid #ffffff;
+    height: 40px;
+    border-radius: 25px;
+    font-family: Fira Sans;
+    font-weight: bold;
+    padding: 20px;
+    background-color: rgb(226, 230, 236);
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 5px;
+ }
+#input1{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    height: 30px;
+    color: #7a6969;
+    background-color: #ebf3f0;
+    border-radius: 5px;
+    border: 1px solid #ffff;]
+    border-bottom: 50px;}
+#submit1{
+    text-align: center;
+    border: 1px solid rgb(236, 231, 224);
+    margin-top: 20px;
+    margin-left: 43%;
+    height: 20px;
+    font-size: medium;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #006A50;
+}
