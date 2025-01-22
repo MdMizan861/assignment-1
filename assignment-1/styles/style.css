@@ -217,16 +217,55 @@ td>button{
 #bold-line1{
     font-size: 23px;
     font-weight: bold;
+    font-family: Fira Sans;
     margin-top: 15px;}
 
 
  #description1{
     margin-top: 10px;
+    font-family: Fira Sans;
 
  } 
- #button1{
-    margin-top: 30px;
+ .station>.second-satelite{
+    display: flex;
+ }
+ .btn{
+    width: 150px;
+    height: 30px;
+    font-size: small;
+    font-weight: bold;
     background-color: #0b3b2f;
-    border-radius: 5px;
-    text-align: end;
+    border-radius: 10px;
+    margin-top: 30px;
+ } 
+ .station{
+    display:flex;
+    
+ }
+ .station{
+    width:90%;
+    margin-left: 44px;
+    margin-top: 20px;
+    border: 1px solid rgb(32, 32, 25);
+    border-radius: 15px;
+    padding: 10px;
+ }
+ .station>.marking1{
+    padding: 20px;
+ }
+ .station>.marking1>#new{
+    font-family:Fira Sans;
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 10px;
+ }
+ .station>.marking1>#new1{
+    margin-top: 10px;
+    font-size: 16px;
+    margin-top: 30px;
+    font-family: Fira Sans;
+ }
+ #new3{
+    margin: 20px 30px;
+    padding-top: 20px ;
  }
